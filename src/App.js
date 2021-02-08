@@ -11,6 +11,9 @@ return (
          <h1>Miya's Weather Engine </h1>
             <SearchEngine />
       </header>
+      <footer>
+        <a href="https://github.com/miya89/weather-react">Open-source code </a>by Miya Peynova
+      </footer>
     </div>
   );
 }
